@@ -1,0 +1,9 @@
+---
+format:
+  html:
+    self-contained: true
+---
+
+```{r}
+library(ggdist)
+```
